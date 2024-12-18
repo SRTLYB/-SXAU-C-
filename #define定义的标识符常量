@@ -1,0 +1,12 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#define PAI 3.14
+#define A 10
+int main()
+{
+	
+	
+	int arr[A] = {0};
+	
+	return 0;
+}
