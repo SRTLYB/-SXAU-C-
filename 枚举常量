@@ -1,0 +1,18 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+enum RGB
+{
+RED,\\0
+GREEN,\\1
+BLUE\\2
+};
+int main()
+{
+enum RGB A = RED;
+enum RGB B = GREEN;
+enum RGB C = BLUE;
+printf("%d\n", A);
+printf("%d\n", B);
+printf("%d\n", C);
+return 0;
+}
